@@ -8,6 +8,10 @@ categories:
       - 'bugfix'
       - 'bug'
 change-template: '- $TITLE @$AUTHOR'
+
+replacers:
+  - search: 'Update config file'
+    replace: 'Prevention'
 branches:
   - master
 template: |
