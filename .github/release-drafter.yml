@@ -7,7 +7,7 @@ categories:
       - 'fix'
       - 'bugfix'
       - 'bug'
-      change-template: '- $TITLE @$AUTHOR'
+change-template: '- $TITLE @$AUTHOR'
 branches:
   - master
 template: |
