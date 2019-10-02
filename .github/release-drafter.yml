@@ -1,4 +1,12 @@
 # Config for https://github.com/apps/release-drafter
+categories:
+  - title: '🚀 Features'
+    label: 'feature'
+  - title: '🐛 Bug Fixes'
+    labels:
+      - 'fix'
+      - 'bugfix'
+      - 'bug'
 branches:
   - master
 template: |
