@@ -10,7 +10,7 @@ categories:
 change-template: '- $TITLE @$AUTHOR'
 
 replacers:
-  - search: 'Update config file'
+  - search: 'Update config drafter'
     replace: 'Prevention'
 branches:
   - master
